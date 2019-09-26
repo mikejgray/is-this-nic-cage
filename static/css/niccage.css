@@ -1,0 +1,21 @@
+body {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-color: #3d3d3f;
+}
+.wrapper {
+  background-color: #3d3d3f;
+}
+.columnular {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-color: #f9f8fd;
+}
+.title {
+  color: #7dce94;
+  background-color: #3d3d3f;
+}
+.footer {
+  color: #7dce94;
+  background-color: #3d3d3f;
+}
