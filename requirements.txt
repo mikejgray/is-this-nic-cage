@@ -1,5 +1,5 @@
 torch==1.2.0
 uvicorn==0.11.7
 fastai==1.0.57
-aiohttp==3.6.1
+aiohttp==3.7.4
 starlette==0.13.5
